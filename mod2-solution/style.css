@@ -20,6 +20,7 @@ h1 {
 section {
   position: relative;
   border: 1px solid black;
+   margin: 0px 7px 0px 7px;
    color: black;
   height: 100%
 }
@@ -46,14 +47,6 @@ p {
   padding: 10px;
   padding-bottom: 15px;
 }
-
-/* Simple Responsive Framework. */
-.row {
-  width: 95%;
-  height: 100%;
-  margin: auto;
-}
-
 #sec1{
   background-color: #33ffcc;
 }
@@ -78,6 +71,14 @@ p {
 #Sushi{
   background-color: #FF4040;
 }
+
+
+.row {
+  width: 95%;
+  height: 100%;
+  margin: auto;
+}
+
 
 div {
   height: 100%;
